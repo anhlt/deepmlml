@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Random Thoughts - General</title><link href="https://deepmlml.com/" rel="alternate"></link><link href="https://deepmlml.com/feeds/general.atom.xml" rel="self"></link><id>https://deepmlml.com/</id><updated>2017-10-04T19:25:12+09:00</updated><subtitle>✨ Suy nghĩ vu vơ</subtitle><entry><title>Giới thiệu về blog</title><link href="https://deepmlml.com/gioi-thieu-ve-blog.html" rel="alternate"></link><published>2017-10-04T19:25:12+09:00</published><updated>2017-10-04T19:25:12+09:00</updated><author><name>h4cker</name></author><id>tag:deepmlml.com,2017-10-04:/gioi-thieu-ve-blog.html</id><summary type="html"></summary><content type="html">&lt;h4 id="loi-gioi-thieu"&gt;Lời giới thiệu&lt;/h4&gt;
+&lt;p&gt;Chào mọi người, tôi là một &lt;em&gt;kĩ sư&lt;/em&gt; đang sống và làm việc tại Nhật Bản, tôi có một cô bạn gái ở Việt Nam. Chúng tôi đã yêu nhau được hơn 4 năm, và quyết định làm đám cưới vào cuối năm này. Yêu xa ắt hẳn đã bất tiện, yêu xa để chuẩn bị cưới còn nhiều bất tiện hơn. Vì thế tôi viết blog này, chia sẻ cùng các bạn những khó khăn, kinh nghiệm mà tôi đã trải qua, từ khi bắt đầu học deep learning cũng như tập tễnh bước chấn vào tìm hiểu về computer vision. &lt;/p&gt;
+&lt;p&gt;Nội dung chủ yếu của blog này, sẽ là những vấn đề cùng mọi người sẽ gặp phải khi training các bài toán. Tôi sẽ cố gắng chia sẻ kinh nghiệm của tôi khi re implement các paper, cách xử lý, debug khi mô hình không hoạt động đúng đắn.&lt;/p&gt;
+&lt;p&gt;Gần đây tôi đang tự implement lại mô hình Faster RCNN, vì thế những bài đầu tiên về blog này sẽ viết về mô hình Faster RCNN.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Xin được lưu ý, tôi không phải là người nghiên cứu về deep learning. Tôi tốt nghiệp đại học CNTT ở Việt Nam. Sau đó đi làm luôn, tôi chỉ dành thời gian tìm hiểu deep learning trong lúc rảnh rỗi, hoặc cãi nhau với vợ sắp cưới của tôi, mọi kiến thức tôi chia sẻ ở blog này không đảm bảo hoàn toàn được tính đúng đắn.&lt;/strong&gt; &lt;/p&gt;
+&lt;h4 id="hien-thi-latex-tren-blog"&gt;Hiển thị Latex trên blog&lt;/h4&gt;
+&lt;p&gt;Bạn có thể sử dụng extension TamperMonkey, GeaseMonkey và cài đặt 
+&lt;a href="https://gist.githubusercontent.com/goatandsheep/c8bf7b4ae448e76208a0/raw/76d36877a82d34fccf6e17e63c3db3cbef3712c8/Texify-Mathjax.js"&gt;Texify the World&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hoặc cài đặt &lt;a href="http://thewe.net/tex/"&gt;TexTheWorld Chrome Extension&lt;/a&gt;. Nếu cài đặt đúng đắn, bạn sẽ thấy được biểu thức dưới đây.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;[; e^{\pi i}+1=0 ;]&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id="youtube"&gt;Youtube&lt;/h4&gt;
+&lt;p&gt;&lt;span class="videobox"&gt;
+&lt;iframe allowfullscreen="" frameborder="0" height="390" mozallowfullscreen="" src="https://www.youtube.com/embed/hTWKbfoikeg" webkitallowfullscreen="" width="640"&gt;
+&lt;/iframe&gt;
+&lt;/span&gt;&lt;/p&gt;</content><category term="General"></category><category term="intro"></category></entry></feed>
